@@ -1,4 +1,4 @@
-# Weld Homework
+# CDI test
 
 * Download the WildFly application server (10.0.0.Final)
 * Create a public github repository under your github account

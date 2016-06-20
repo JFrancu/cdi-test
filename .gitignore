@@ -106,3 +106,4 @@ jboss/server/minimal/work/**/*
 *.DEPLOYED
 
 /target/
+/README.md
